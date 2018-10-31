@@ -1,4 +1,4 @@
-# videos
+# Play ads at regular intervals in your video
 Play ads at regular intervals in your video
 
 This is how it works:
